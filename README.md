@@ -1,0 +1,1 @@
+# Friendclass.cpp
